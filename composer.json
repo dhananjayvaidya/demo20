@@ -1,0 +1,13 @@
+{
+    "name": "dhananjayvaidya/demo20",
+    "description": "demo for composer create-project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhananjayvaidya",
+            "email": "jsaonvaidya123@gmail.com"
+        }
+    ],
+    "require": {}
+}
